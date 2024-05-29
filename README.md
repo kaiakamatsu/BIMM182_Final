@@ -14,3 +14,5 @@ DepMap CRISPR Selectivity Scores: https://depmap.org/portal/download/all/
 
 
 
+Ask TA 
+- Interpretation of cell line "classification" correctly: does this mean each cell line either contains or does not contain ecDNA? Are the genes listed the genes that are present in the ecDNA or just in the cell line in general? 
