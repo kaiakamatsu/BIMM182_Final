@@ -10,3 +10,7 @@ GTEx genotype and gene expression data: https://gtexportal.org/home/
 ## Pre-processed files and Heritability estimates 
 
 https://drive.google.com/drive/folders/1vtj2s-JMxsJjEpIQfAU3Uxn8XwLX7NC6?usp=sharing 
+
+## Final Report
+
+BIMM 182 Final Report (1).pdf
